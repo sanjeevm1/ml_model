@@ -1,0 +1,33 @@
+
+.text {
+
+    color: aliceblue;
+    font-size: 10vw;
+    text-align: center;
+}
+
+.textgen-container {
+    margin-left:1.8rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.textgen-item{
+    margin-left: 10vw;
+}
+
+.generatebtn{
+
+    position: absolute;
+    left:39%;
+    bottom:12%;
+    width:auto;
+    height: 5%;
+    background-color: #00674b;
+    color:aliceblue;
+    border-radius: 50px;
+    font-weight: bold;
+
+}
